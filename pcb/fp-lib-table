@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name promram)(type KiCad)(uri ${KIPRJMOD}/promram.pretty)(options "")(descr ""))
+)
